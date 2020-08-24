@@ -1,16 +1,24 @@
-### Hi there 👋
+Hey 👋🏻,
 
-<!--
-**ClutchKick2207/ClutchKick2207** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a programmer that's in high-school. I love learning about Cyber-Security, and I predominantly work with Python. I aim to learn more about Social-Engineering, Ethical Hacking, Machine Learning and Bash. 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Get in touch
+
+- Web: [clutchkick2207.github.io/][1]
+- Email: ariz.ahmed@wellard.net.au
+
+
+## What I am looking at:
+
+You can find my blog posts on [dev.to/natterstefan][4]. I write about things
+I am familiar with including **JavaScript**, **TypeScript**, and **ReactJS**.
+I also do reviews of software and hardware.
+
+## My Stats:
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+
+
+[1]: https://clutchkick2207.github.io/n
