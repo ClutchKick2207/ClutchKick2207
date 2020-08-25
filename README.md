@@ -2,7 +2,7 @@ Hello Everyone! 👋🏻,
 
 ## About me:
 
-I am a programmer that's in high-school. I love learning about Cyber-Security, and I predominantly work with Python. I aim to learn more about Social-Engineering, Ethical Hacking, Machine Learning and Bash. 
+I am a programmer that's in high-school. I love learning about Cyber-Security, and I predominantly work with Python. I aim to learn more about Social-Engineering, Ethical Hacking, Machine Learning and Bash. I am aiming to work more with Social-Engineering tools such as SET and Metasploit.
 
 
 ## Get in touch
