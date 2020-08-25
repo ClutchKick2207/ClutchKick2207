@@ -29,12 +29,13 @@ I am a programmer that's in high-school. I love learning about Cyber-Security, a
 [![Social-Engineering](https://img.shields.io/badge/-🗣&nbsp;&nbsp;Social&nbsp;Engineering&nbsp;-000000?style=flat)](https://www.social-engineer.org/)
 [![Pico-CTF](https://img.shields.io/badge/-⛳&nbsp;&nbsp;PicoCTF&nbsp;-000000?style=flat)](https://picoctf.com/)
 
-## My Stats:
+## My Projects:
 
-<h1>
-    <a href="">
-        <img align="" height='130px' src="https://github-readme-stats.vercel.app/api?username=ClutchKick2207&hide_title=truee&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite"/><img align="" height='130px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=ClutchKick2207&hide_title=true&layout=compact&bg_color=0,73FA79,73FDFF,7A81FF&theme=graywhite" />
-    </a>
-</h1>
+<a href="https://github.com/ClutchKick2207/coding-notes">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ClutchKick2207&repo=coding-notes" />
+</a>
+<a href="https://github.com/ClutchKick2207/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a>
 
 [1]: https://clutchkick2207.github.io/n
