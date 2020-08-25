@@ -23,15 +23,11 @@ I am a programmer that's in high-school. I love learning about Cyber-Security, a
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=FFFFFF)
 ![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=FCC624)
-
+![VSCode](https://img.shields.io/badge/-🆚&nbsp;&nbsp;VS&nbsp;Code&nbsp;-000000?style=flat)
 ## Cybersecurity:
 
 [![Social-Engineering](https://img.shields.io/badge/-🗣&nbsp;&nbsp;Social&nbsp;Engineering&nbsp;-000000?style=flat)](https://www.social-engineer.org/)
 [![Pico-CTF](https://img.shields.io/badge/-⛳&nbsp;&nbsp;PicoCTF&nbsp;-000000?style=flat)](https://picoctf.com/)
-
-## Mentions:
-
-Image Shield: [https://img.shields.io](https://img.shields.io/)
 
 
 [1]: https://clutchkick2207.github.io/n
