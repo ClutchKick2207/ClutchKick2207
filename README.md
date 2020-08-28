@@ -12,10 +12,10 @@ I am a programmer that's in high-school. I love learning about Cyber-Security, a
 
 ## Languages I have used:
 
-[![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5)](https://html.com/html5/)
-[![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)](https://www.javascript.com/)
-[![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)](https://www.python.org/)
-[![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=MySQL)](https://www.mysql.com/)
+[![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5)](https://github.com/ClutchKick2207/My-First-Website)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)](https://github.com/ClutchKick2207/My-First-Website)
+[![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)](https://github.com/ClutchKick2207/coding-notes)
+[![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=MySQL)](https://github.com/ClutchKick2207/coding-notes)
 [![Bash](https://img.shields.io/badge/-⌨&nbsp;&nbsp;Bash-000000?style=flat)](https://www.gnu.org/software/bash/)
 
 ## Technologies I am familiar with/have used:
