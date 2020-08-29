@@ -39,4 +39,4 @@ I am a programmer that's in high-school. I love learning about Cyber-Security, a
     </a>
 </h1>
 
-[1]: https://clutchkick2207.github.io/n
+[1]: https://clutchkick2207.github.io/
