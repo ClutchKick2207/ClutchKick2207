@@ -23,7 +23,7 @@ I am a programmer that's in high-school. I love learning about Cyber-Security, a
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=FFFFFF)
 ![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=FCC624)
-![VSCode](https://img.shields.io/badge/-🆚&nbsp;&nbsp;VS&nbsp;Code&nbsp;-000000?style=flat)
+![VSCode](https://img.shields.io/badge/-VSCode-000000?style=flat&logo=Visual-Studio-Code)
 ![SET](https://img.shields.io/badge/-💬&nbsp;&nbsp;SET&nbsp;-000000?style=flat)
 ![Kali-Linux](https://img.shields.io/badge/-🔐&nbsp;&nbsp;Kali&nbsp;Linux&nbsp;-000000?style=flat)
 ## Cybersecurity:
