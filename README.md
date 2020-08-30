@@ -39,4 +39,8 @@ I am a programmer that's in high-school. I love learning about Cyber-Security, a
     </a>
 </h1>
 
+## My Certifications:
+
+[![Amazon AWS Certification](https://img.shields.io/badge/-AWS%20Machine%20Learning-000000?style=flat&logo=amazon&logoColor=F05032)](https://coursera.org/share/d17dc778925bae7807c5e2353a8a9bf9)
+
 [1]: https://clutchkick2207.github.io/
