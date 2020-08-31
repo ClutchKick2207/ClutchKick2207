@@ -31,6 +31,14 @@ I am a programmer that's in high-school. I love learning about Cyber-Security, a
 [![Social-Engineering](https://img.shields.io/badge/-🗣&nbsp;&nbsp;Social&nbsp;Engineering&nbsp;-000000?style=flat)](https://www.social-engineer.org/)
 [![Pico-CTF](https://img.shields.io/badge/-⛳&nbsp;&nbsp;PicoCTF&nbsp;-000000?style=flat)](https://picoctf.com/)
 
+## My Certifications:
+
+[![Amazon AWS Certification](https://img.shields.io/badge/-AWS%20Machine%20Learning-000000?style=flat&logo=amazon)](https://coursera.org/share/d17dc778925bae7807c5e2353a8a9bf9)
+
+## What I am working on:
+
+[![Machine Learning](https://img.shields.io/badge/-💻&nbsp;&nbsp;Machine&nbsp;Learning&nbsp;-000000?style=flat)](https://www.coursera.org/learn/machine-learning?)
+
 ## My Stats:
 
 <h1>
@@ -39,8 +47,5 @@ I am a programmer that's in high-school. I love learning about Cyber-Security, a
     </a>
 </h1>
 
-## My Certifications:
-
-[![Amazon AWS Certification](https://img.shields.io/badge/-AWS%20Machine%20Learning-000000?style=flat&logo=amazon)](https://coursera.org/share/d17dc778925bae7807c5e2353a8a9bf9)
 
 [1]: https://clutchkick2207.github.io/
