@@ -26,7 +26,7 @@ I am a programmer that's in high-school. I love learning about Cyber-Security, a
 ![VSCode](https://img.shields.io/badge/-VSCode-000000?style=flat&logo=Visual-Studio-Code&logoColor=0766B7)
 ![SET](https://img.shields.io/badge/-💬&nbsp;&nbsp;SET&nbsp;-000000?style=flat)
 ![Kali-Linux](https://img.shields.io/badge/-🔐&nbsp;&nbsp;Kali&nbsp;Linux&nbsp;-000000?style=flat)
-![Vim](https://img.shields.io/badge/-Vim-000000?style=flat&logo=vim&)
+![Vim](https://img.shields.io/badge/-Vim-000000?style=flat&logo=vim&logoColor=009933)
 ## Cybersecurity:
 
 [![Social-Engineering](https://img.shields.io/badge/-🗣&nbsp;&nbsp;Social&nbsp;Engineering&nbsp;-000000?style=flat)](https://www.social-engineer.org/)
