@@ -40,6 +40,7 @@ I am a programmer that's in high-school. I love learning about Cyber-Security, a
 ## What I am working on:
 
 [![Machine Learning](https://img.shields.io/badge/-💻&nbsp;&nbsp;Machine&nbsp;Learning&nbsp;-000000?style=flat)](https://www.coursera.org/learn/machine-learning?)
+[![Tensorflow](https://img.shields.io/badge/-Tensorflow-000000?style=flat&logo=tensorflow&logoColor=EC8IDE)](https://www.youtube.com/watch?v=tPYj3fFJGjk&list=PLvX_x2UlzlPfkniPk5Zy6CxNPsctIR8xf)
 
 ## My Stats:
 
