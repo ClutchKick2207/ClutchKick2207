@@ -27,6 +27,7 @@ I am a programmer that's in high-school. I love learning about Cyber-Security, a
 ![SET](https://img.shields.io/badge/-💬&nbsp;&nbsp;SET&nbsp;-000000?style=flat)
 ![Kali-Linux](https://img.shields.io/badge/-🔐&nbsp;&nbsp;Kali&nbsp;Linux&nbsp;-000000?style=flat)
 ![Vim](https://img.shields.io/badge/-Vim-000000?style=flat&logo=vim&logoColor=009933)
+[![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-000000?style=flat&logo=Jupyter)](https://jupyter.org/index.html)
 
 ## Cybersecurity:
 
