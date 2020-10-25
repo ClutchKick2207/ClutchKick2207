@@ -43,6 +43,7 @@ I am a programmer that's in high-school. I love learning about Cyber-Security, a
 [![Machine Learning](https://img.shields.io/badge/-💻&nbsp;&nbsp;Machine&nbsp;Learning&nbsp;-000000?style=flat)](https://www.coursera.org/learn/machine-learning?)
 [![Tensorflow](https://img.shields.io/badge/-Tensorflow-000000?style=flat&logo=tensorflow&logoColor=EC8IDE)](https://www.youtube.com/watch?v=tPYj3fFJGjk&list=PLvX_x2UlzlPfkniPk5Zy6CxNPsctIR8xf)
 [![Davinci Resolve](https://img.shields.io/badge/-💥&nbsp;&nbsp;Davinci&nbsp;Resolve&nbsp;-000000?style=flat)](https://www.blackmagicdesign.com/products/davinciresolve/)
+[![Social Media Concept](https://img.shields.io/badge/-⌨&nbsp;&nbsp;Social&nbsp;Media&nbsp;Concept&nbsp;-000000?style=flat)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 ## My Stats:
 
