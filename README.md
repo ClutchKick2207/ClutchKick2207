@@ -2,7 +2,7 @@ Hello Everyone! 👋🏻,
 
 ## About me:
 
-I am a programmer that's in high-school. I love learning about Cyber-Security, and I predominantly work with Python. I aim to learn more about Social-Engineering, Ethical Hacking, Machine Learning and Bash. I am aiming to work more with Social-Engineering tools such as SET and Metasploit. I am currently working on Machine Learning (including using languages such as Octave, Python and Jupyter Notebooks). I enjoy working with hardware, and I work extensively repairing and building PCs, while also educating others on how to stay safe online, and how to utilise their hardware to the fullest. I love working with others, and I hope to teach and learn!
+I am a programmer that's in high-school. I love learning about Cyber-Security, and I predominantly work with Python and Swift. I aim to learn more about Social-Engineering, Ethical Hacking, Machine Learning, Swift and Bash. I am learning to work more with Social-Engineering tools such as SET and Metasploit. I am currently working on learning more about Swift and potentially using it as my main Programming Language due to verstatility and speed that it brings, while remaining very simple. I enjoy working with hardware, and I work extensively repairing and building PCs (including the Mac I am writing this on!), while also educating others on how to stay safe online, and how to utilise their hardware to the fullest. I love working with others, and I hope to teach and learn! Feel free to have a look through what I am working on, and I am happy to work on anything hardware!
 
 
 ## Get in touch
@@ -17,6 +17,8 @@ I am a programmer that's in high-school. I love learning about Cyber-Security, a
 [![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)](https://github.com/ClutchKick2207/coding-notes)
 [![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=MySQL)](https://github.com/ClutchKick2207/coding-notes)
 [![Bash](https://img.shields.io/badge/-⌨&nbsp;&nbsp;Bash-000000?style=flat)](https://www.gnu.org/software/bash/)
+[![Swift](https://img.shields.io/badge/-Swift-000000?style=flat&logo=swift&)](https://github.com/ClutchKick2207/coding-notes)
+
 
 ## Technologies I am familiar with/have used:
 
@@ -28,6 +30,7 @@ I am a programmer that's in high-school. I love learning about Cyber-Security, a
 ![Kali-Linux](https://img.shields.io/badge/-🔐&nbsp;&nbsp;Kali&nbsp;Linux&nbsp;-000000?style=flat)
 ![Vim](https://img.shields.io/badge/-Vim-000000?style=flat&logo=vim&logoColor=009933)
 [![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-000000?style=flat&logo=Jupyter)](https://jupyter.org/index.html)
+[![Xcode](https://img.shields.io/badge/-Xcode-000000?style=flat&logo=xcode&)](https://developer.apple.com/xcode/)
 
 ## Cybersecurity:
 
@@ -40,9 +43,9 @@ I am a programmer that's in high-school. I love learning about Cyber-Security, a
 
 ## What I am working on:
 
-[![Machine Learning](https://img.shields.io/badge/-💻&nbsp;&nbsp;Machine&nbsp;Learning&nbsp;-000000?style=flat)](https://www.coursera.org/learn/machine-learning?)
-[![Tensorflow](https://img.shields.io/badge/-Tensorflow-000000?style=flat&logo=tensorflow&logoColor=EC8IDE)](https://www.youtube.com/watch?v=tPYj3fFJGjk&list=PLvX_x2UlzlPfkniPk5Zy6CxNPsctIR8xf)
 [![Davinci Resolve](https://img.shields.io/badge/-💥&nbsp;&nbsp;Davinci&nbsp;Resolve&nbsp;-000000?style=flat)](https://www.blackmagicdesign.com/products/davinciresolve/)
+[![Xcode](https://img.shields.io/badge/-🖥&nbsp;&nbsp;Xcode&nbsp;-000000?style=flat)](https://developer.apple.com/xcode/)
+
 
 ## My Stats:
 
