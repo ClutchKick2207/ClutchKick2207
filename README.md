@@ -1,4 +1,4 @@
-Hello Everyone! ?ëã?èª,
+Hello Everyone! üëã,
 
 ## About me:
 
@@ -17,7 +17,7 @@ I am a tech-enthusiast that's in high-school. I love learning about new technolo
 [![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)](https://github.com/ClutchKick2207/My-First-Website)
 [![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)](https://github.com/ClutchKick2207/coding-notes)
 [![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=MySQL)](https://github.com/ClutchKick2207/coding-notes)
-[![Bash](https://img.shields.io/badge/-‚å®&nbsp;&nbsp;Bash-000000?style=flat)](https://www.gnu.org/software/bash/)
+[![Bash](https://img.shields.io/badge/-√¢≈í¬®&nbsp;&nbsp;Bash-000000?style=flat)](https://www.gnu.org/software/bash/)
 [![Swift](https://img.shields.io/badge/-Swift-000000?style=flat&logo=swift&)](https://github.com/ClutchKick2207/coding-notes)
 [![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat&logo=markdown&)](https://github.com/ClutchKick2207/coding-notes)
 
@@ -27,8 +27,8 @@ I am a tech-enthusiast that's in high-school. I love learning about new technolo
 [![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=FFFFFF)](https://github.com/ClutchKick2207/)
 ![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=FCC624)
 ![VSCode](https://img.shields.io/badge/-VSCode-000000?style=flat&logo=Visual-Studio-Code&logoColor=0766B7)
-![SET](https://img.shields.io/badge/-?í¨&nbsp;&nbsp;SET&nbsp;-000000?style=flat)
-![Kali-Linux](https://img.shields.io/badge/-?îê&nbsp;&nbsp;Kali&nbsp;Linux&nbsp;-000000?style=flat)
+![SET](https://img.shields.io/badge/ü§´&nbsp;&nbsp;SET&nbsp;-000000?style=flat)
+![Kali-Linux](https://img.shields.io/badge/üîê&nbsp;&nbsp;Kali&nbsp;Linux&nbsp;-000000?style=flat)
 ![Vim](https://img.shields.io/badge/-Vim-000000?style=flat&logo=vim&logoColor=009933)
 [![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-000000?style=flat&logo=Jupyter)](https://jupyter.org/index.html)
 [![Xcode](https://img.shields.io/badge/-Xcode-000000?style=flat&logo=xcode&)](https://developer.apple.com/xcode/)
@@ -36,8 +36,8 @@ I am a tech-enthusiast that's in high-school. I love learning about new technolo
 
 ## What I am working on:
 
-[![Davinci Resolve](https://img.shields.io/badge/-?í•&nbsp;&nbsp;Davinci&nbsp;Resolve&nbsp;-000000?style=flat)](https://www.blackmagicdesign.com/products/davinciresolve/)
-[![Xcode](https://img.shields.io/badge/-?ñ•&nbsp;&nbsp;Xcode&nbsp;-000000?style=flat)](https://developer.apple.com/xcode/)
+[![Davinci Resolve](https://img.shields.io/badge/üí•&nbsp;&nbsp;Davinci&nbsp;Resolve&nbsp;-000000?style=flat)](https://www.blackmagicdesign.com/products/davinciresolve/)
+[![Xcode](https://img.shields.io/badge/üñ•&nbsp;&nbsp;Xcode&nbsp;-000000?style=flat)](https://developer.apple.com/xcode/)
 
 ## My Stats:
 
