@@ -55,5 +55,8 @@ I am a programmer that's in high-school. I love learning about Cyber-Security, a
     </a>
 </h1>
 
+## My Trophys:
+![trophy](https://github-profile-trophy.vercel.app/?username=ClutchKick2207&theme=nord&no-frame=true&rank=SSS,SS,S,AAA,AA,A,SECRET,B)
+
 
 [1]: https://clutchkick2207.github.io/
