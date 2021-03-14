@@ -32,14 +32,6 @@ I am a tech-enthusiast that's in high-school. I love learning about new technolo
 ![Vim](https://img.shields.io/badge/-Vim-000000?style=flat&logo=vim&logoColor=009933)
 [![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-000000?style=flat&logo=Jupyter)](https://jupyter.org/index.html)
 [![Xcode](https://img.shields.io/badge/-Xcode-000000?style=flat&logo=xcode&)](https://developer.apple.com/xcode/)
-
-## Cybersecurity:
-
-[![Social-Engineering](https://img.shields.io/badge/-🗣&nbsp;&nbsp;Social&nbsp;Engineering&nbsp;-000000?style=flat)](https://www.social-engineer.org/)
-[![Pico-CTF](https://img.shields.io/badge/-⛳&nbsp;&nbsp;PicoCTF&nbsp;-000000?style=flat)](https://picoctf.com/)
-
-## My Certifications:
-
 [![Amazon AWS Certification](https://img.shields.io/badge/-AWS%20Machine%20Learning-000000?style=flat&logo=amazon)](https://coursera.org/share/d17dc778925bae7807c5e2353a8a9bf9)
 
 ## What I am working on:
