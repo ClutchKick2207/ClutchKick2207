@@ -2,7 +2,7 @@ Hello Everyone! 👋🏻,
 
 ## About me:
 
-I am a programmer that's in high-school. I love learning about Cyber-Security, and I predominantly work with Python and Swift. I aim to learn more about Social-Engineering, Ethical Hacking, Machine Learning, Swift and Bash. I am learning to work more with Social-Engineering tools such as SET and Metasploit. I am currently working on learning more about Swift and potentially using it as my main Programming Language due to verstatility and speed that it brings, while remaining very simple. I enjoy working with hardware, and I work extensively repairing and building PCs (including the Mac I am writing this on!), while also educating others on how to stay safe online, and how to utilise their hardware to the fullest. I love working with others, and I hope to teach and learn! Feel free to have a look through what I am working on, and I am happy to work on anything hardware!
+I am a tech-enthusiast that's in high-school. I love learning about new technologies, and predominantly work with Markdown, Python and Swift. I aim to work more on CTFs, Swift, Markdown (possibly R Markdown), Python and Linux. I love Social Engineering, both the programming and social aspects of it. I aim to start using Swift as my main scripting language due to the simplicity and versitility that it brings, while being powerful. I enjoy working with hardware (especially MacBooks and Desktops), and work extensively in repairing machines (including the MacBook I am writing this on!), both for personal use and community service. I enjoy repairing MacBooks, and have developed a specialty in them. I also enjoy reapring and building PCs and Desktop computers. I have experience in MacOS, Windows, and Linux (although I prefer MacOS overall, with Windows for gaming). Hope you enjoy my work!
 
 
 ## Get in touch
@@ -18,6 +18,7 @@ I am a programmer that's in high-school. I love learning about Cyber-Security, a
 [![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=MySQL)](https://github.com/ClutchKick2207/coding-notes)
 [![Bash](https://img.shields.io/badge/-⌨&nbsp;&nbsp;Bash-000000?style=flat)](https://www.gnu.org/software/bash/)
 [![Swift](https://img.shields.io/badge/-Swift-000000?style=flat&logo=swift&)](https://github.com/ClutchKick2207/coding-notes)
+[![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat&logo=markdown&)](https://github.com/ClutchKick2207/coding-notes)
 
 
 ## Technologies I am familiar with/have used:
