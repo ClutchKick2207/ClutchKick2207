@@ -4,7 +4,7 @@ Hello Everyone! 👋,
 
 I am a tech-enthusiast that's in high-school. I love learning about new technologies, and predominantly work with Markdown, Python and Swift. I aim to work more on CTFs, Swift, Markdown (possibly R Markdown), Python and Linux. I love Social Engineering, both the programming and social aspects of it. I aim to start using Swift as my main scripting language due to the simplicity and versitility that it brings, while being powerful. I enjoy working with hardware (especially MacBooks and Desktops), and work extensively in repairing machines (including the MacBook I am writing this on!), both for personal use and community service. I enjoy repairing MacBooks, and have developed a specialty in them. I also enjoy reapring and building PCs and Desktop computers. I have experience in MacOS, Windows, and Linux (although I prefer MacOS overall, with Windows for gaming). Hope you enjoy my work!
 
-![](/Users/ariz/Documents/GitHub/ClutchKick2207/Images/Statistics-Gif.gif)
+![Statistics GIF](Images/Statistics-Gif.gif)
 
 ## Get in touch
 
