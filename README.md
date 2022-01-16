@@ -7,7 +7,7 @@ I am a tech-enthusiast that's in high-school. I love learning about new technolo
 ## Get in touch
 
 - Web: [clutchkick2207.github.io/][1]
-- Writing: [https://createdtech.com/author/ariz/][2]
+- Writing: [https://createdtech.com/author/ariz/]
 - Email: ariz.ahmed@wellard.net.au
 
 ## Languages I have used:
