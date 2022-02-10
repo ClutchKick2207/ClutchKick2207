@@ -51,5 +51,4 @@ I am a tech-enthusiast that's in high-school. I love learning about new technolo
 ![trophy](https://github-profile-trophy.vercel.app/?username=ClutchKick2207&theme=nord&no-frame=true&rank=SSS,SS,S,AAA,AA,A,SECRET,B)
 
 
-
 [1]: https://clutchkick2207.github.io/
