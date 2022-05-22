@@ -5,7 +5,7 @@
 </h1>
 
 <h5 align="center">
-  <code><a href="https://stackoverflow.com/users/19173222/ariz-ahmed" title="Stack Overflow Profile"><img width="22" src="images/stackoverflow.svg"> Stack Overflow</a></code>
+  <code><a href="https://stackoverflow.com/users/19173222/ariz-ahmed" title="Stack Overflow Profile"><img width="22" src="Images/stackoverflow.svg"> Stack Overflow</a></code>
 </h5>
 <br>
 <p align="center">
