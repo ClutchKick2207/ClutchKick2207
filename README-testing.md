@@ -12,15 +12,15 @@
   Hey, I'm Ariz Ahmed, a High School student from Australia, who has an interest in all things tech.
   <br>
   <br>
-  🔬 I'm currently working on learning 
+  🔬 I'm currently focusing on school-work, and assignments
   <br>
-  💻 I love working with hardware, and working with software
+  💻 I love working with hardware, and learning more about software
   <br>
   📚 I’m currently learning more about Machine Learning, Neural Networks and Computer Forensics
   <br>
-  💬 Ask me anything about from <a href="https://github.com/zumrudu-anka/zumrudu-anka/issues" title="Issues">Here</a>
+  💬 Ask me anything about Volatility3, Autopsy, FastAI, PyTorch, Hardware and GNU/Linux
   <br>
-  📫 How to reach me: <a href="mailto: osmandurdag@hotmail.com">osmandurdag@hotmail.com</a>
+  📫 How to reach me: <a href="mailto: ariz.ahmed@wellard.net.au">ariz.ahmed@wellard.net.au</a>
 </p>
 
 <hr>
