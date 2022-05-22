@@ -12,15 +12,11 @@
   Hey, I'm Ariz Ahmed, a High School student from Australia, who has an interest in all things tech.
   <br>
   <br>
-  🔬 I'm currently working on learning more about Machine Learning, Neural Networks and Computer Forensics
+  🔬 I'm currently working on learning 
   <br>
-  🎓 I graduated from Black Sea Technical University Computer Engineering Department
+  💻 I love working with hardware, and working with software
   <br>
-  🎓 I graduated from Erzurum İbrahim Hakkı Science High School
-  <br>
-  💻 I love writing code and learn anythings about it
-  <br>
-  📚 I’m currently learning how to build E-Commerce Website with Django
+  📚 I’m currently learning more about Machine Learning, Neural Networks and Computer Forensics
   <br>
   💬 Ask me anything about from <a href="https://github.com/zumrudu-anka/zumrudu-anka/issues" title="Issues">Here</a>
   <br>
