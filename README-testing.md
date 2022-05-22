@@ -46,7 +46,7 @@
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
 <br>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/ClutchKick2207/Fast.ai-Course" title="FastAI"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=clutchkick2207&repo=Fast.ai-Course&theme=react&border_color=61dafb&border_radius=10"></a>
+
   
   <a align="right" href="https://github.com/ClutchKick2207/FreeCodeCamp" title="FreeCodeCamp"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=clutchkick2207&repo=FreeCodeCamp&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
