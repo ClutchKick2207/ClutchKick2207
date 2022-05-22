@@ -20,7 +20,7 @@
   <br>
   💬 Ask me anything about Volatility3, Autopsy, FastAI, PyTorch, Hardware and GNU/Linux
   <br>
-  📫 How to reach me: <a href="mailto: ariz.ahmed@wellard.net.au">ariz.ahmed@wellard.net.au</a>
+  📫 How to contact me: <a href="mailto: ariz.ahmed@wellard.net.au">ariz.ahmed@wellard.net.au</a>
 </p>
 
 <hr>
