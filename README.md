@@ -41,8 +41,6 @@
   <img src="https://activity-graph.herokuapp.com/graph?username=clutchkick2207&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
 
-<hr>
-
 <h2 align="center">🎶 What I am Listening to 🎶</h2>
 <br>
 <p align=center>
