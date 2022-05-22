@@ -1,9 +1,7 @@
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=clutchkick2207.clutchkick2207">
 
 <h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Osman+DURDAĞ....;Nice+to+meet+you!&center=true&size=30">
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Hello%2C+There!+%F0%9F%91%8B;I+am+Ariz+Ahmed...;Nice+to+meet+you!;Enjoy+my+work...)&center=true&size=30">
 </h1>
 
 <h5 align="center">
