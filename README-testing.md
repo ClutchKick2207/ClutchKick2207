@@ -45,21 +45,11 @@
 
 <h2 align="center">🎶 What I am Listening to 🎶</h2>
 <br>
-
-<img align="center" 
-    style="display: block; 
-           margin-left: auto;
-           margin-right: auto;
-           width: 30%;"
-    src="https://spotify-github-profile.vercel.app/api/view?uid=iiymg17v7sk32ic0fdbtq0xzc&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=true" 
-    alt="Our logo">
-</img>
-
-<br><br><br><br><br><br>
-<h4 align="center">
-  <a href="https://github.com/zumrudu-anka?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
-</h4>
-
+<p align=center>
+  <div align=center>
+      <img align="center" src="https://spotify-github-profile.vercel.app/api/view?uid=iiymg17v7sk32ic0fdbtq0xzc&cover_image=true&theme=compact"/>
+    </a>
+  </div>
 <!--
 **zumrudu-anka/zumrudu-anka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
