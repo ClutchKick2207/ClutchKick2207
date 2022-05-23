@@ -15,11 +15,11 @@
   Hey, I'm Ariz Ahmed, a High School student from Australia, who has an interest in all things tech.
   <br>
   <br>
-  🔬 I'm currently focusing on school-work, and assignments
+  🔬 I'm currently focusing on school-work, assignments and exams
   <br>
   💻 I love working with hardware, and learning more about software
   <br>
-  📚 I’m currently learning more about Machine Learning, Neural Networks and Computer Forensics
+  📚 I’m currently learning more about Machine Learning, Neural Networks and Computer Forensics.
   <br>
   💬 Ask me anything about Volatility3, Autopsy, FastAI, PyTorch, Hardware and GNU/Linux
   <br>
@@ -50,23 +50,3 @@
       <img align="center" src="https://spotify-github-profile.vercel.app/api/view?uid=iiymg17v7sk32ic0fdbtq0xzc&cover_image=true&theme=novatorem&bar_color=5ed7f7&bar_color_cover=false"/>
     </a>
   </div>
-<!--
-**zumrudu-anka/zumrudu-anka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-
-Notes: If you want use this readme, firstly star it please. If you can't align your repositories like this, please change your repository desription to shorter than now. Maybe 4 or 5 word will be good.
-
-![Metrics](https://metrics.lecoq.io/zumrudu-anka?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.limit=0&config.timezone=Europe%2FIstanbul)
-
--->
