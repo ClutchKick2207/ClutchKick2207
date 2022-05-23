@@ -48,7 +48,7 @@
 <br>
 <p align=center>
   <div align=center>
-      <img align="center" src="https://spotify-github-profile.vercel.app/api/view?uid=iiymg17v7sk32ic0fdbtq0xzc&cover_image=true&theme=compact"/>
+      <img align="center" src="https://spotify-github-profile.vercel.app/api/view?uid=iiymg17v7sk32ic0fdbtq0xzc&cover_image=true&theme=novatorem&bar_color=5ed7f7&bar_color_cover=false"/>
     </a>
   </div>
 <!--
