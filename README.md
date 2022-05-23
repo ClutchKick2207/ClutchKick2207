@@ -1,7 +1,7 @@
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=clutchkick2207.clutchkick2207">
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Hello%2C+There!+%F0%9F%91%8B;I+am+Ariz+Ahmed...;Nice+to+meet+you!;Enjoy+my+work...&center=true&size=30">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Nice+to+meet+you!;Enjoy+my+work...&center=true&size=30">
 </h1>
 
 <h5 align="center">
