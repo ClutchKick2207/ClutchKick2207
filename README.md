@@ -21,7 +21,7 @@
   <br>
   📚 I’m currently learning more about Machine Learning, Neural Networks and Computer Forensics.
   <br>
-  💬 Ask me anything about Volatility3, Autopsy, FastAI, PyTorch, Hardware and GNU/Linux
+  💬 Ask me anything about Volatility3, Autopsy, FastAI, PyTorch, Hardware and GNU/Linux (I use Arch btw...)
   <br>
   📫 How to contact me: <a href="mailto: ariz.ahmed@wellard.net.au">ariz.ahmed@wellard.net.au</a>
 </p>
