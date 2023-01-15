@@ -19,7 +19,7 @@
   <br>
   💻 I love working with hardware, and learning more about software
   <br>
-  📚 I’m currently learning more about Machine Learning, Neural Networks and Computer Forensics.
+  📚 I’m currently learning more about Machine Learning, Neural Networks, Computer Forensics, Project Management and IT Support
   <br>
   💬 Ask me anything about Volatility3, Autopsy, FastAI, PyTorch, Hardware and GNU/Linux
   <br>
