@@ -36,14 +36,4 @@
       <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=clutchkick2207&show_icons=true&theme=react&border_color=61dafb&hide_border=true&count_private=true" />
     </a>
   </div>
-  <br><br><br><br><br><br><br><br><br>
-  <br>
-  <img src="https://activity-graph.herokuapp.com/graph?username=clutchkick2207&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
-
-<h2 align="center">🎶 What I am Listening to 🎶</h2>
-<p align=center>
-  <div align=center>
-      <img align="center" src="https://spotify-github-profile.vercel.app/api/view?uid=iiymg17v7sk32ic0fdbtq0xzc&cover_image=true&theme=novatorem&bar_color=5ed7f7&bar_color_cover=false"/>
-    </a>
-  </div>
