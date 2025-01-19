@@ -7,21 +7,18 @@
   <img src="https://readme-typing-svg.herokuapp.com?lines=Nice+to+meet+you!;Enjoy+my+work...&center=true&size=30">
 </h1>
 
-<h5 align="center">
-  <code><a href="https://stackoverflow.com/users/19173222/ariz-ahmed" title="Stack Overflow Profile"><img width="22" src="Images/stackoverflow.svg"> Stack Overflow</a></code>
-</h5>
 <br>
 <p align="center">
-  Hey, I'm Ariz Ahmed, a High School student from Australia, who has an interest in all things tech.
+  Hey, I'm Ariz Ahmed, an ANU Applied Data Analytics student from Australia, who has an interest in all things tech.
   <br>
   <br>
-  🔬 I'm currently focusing on school-work, assignments and exams
+  🔬 I'm currently focusing on school-work, assignments and learning more about statistics
   <br>
   💻 I love working with hardware, and learning more about software
   <br>
-  📚 I’m currently learning more about Machine Learning, Neural Networks, Computer Forensics, Project Management and IT Support
+  📚 I’m currently learning more about Data Analytics, Project Management and Machine Learning
   <br>
-  💬 Ask me anything about Volatility3, Autopsy, FastAI, PyTorch, Hardware and GNU/Linux
+  💬 Ask me anything about Hardware and GNU/Linux
   <br>
   📫 How to contact me: <a href="mailto: ariz.ahmed@wellard.net.au">ariz.ahmed@wellard.net.au</a>
 </p>
